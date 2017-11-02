@@ -3,10 +3,10 @@ Olá, tudo bem?
 Obrigado por se inscrever no Eventex.
 Os dados fornecidos por você foram os seguintes:
 
-Nome: {{ name }} \n
-CPF: {{ cpf }} \n
-Email: {{ email }} \n
-Telefone: {{ phone }} \n
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone }}
 
 Em até 48 horas entraremos em contato para confirmarmos sua inscrição.
 
